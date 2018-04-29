@@ -9,7 +9,7 @@ I stopped working on this project after Minecraft 1.10.  Anyone may use my sourc
 Guarantee players who put in the work will find diamonds!
 Even when faced with hoarders, cheaters, and just plain bad luck.
 
-![diamondguarantee_ad](https://s30.postimg.org/krwi2wwr5/diamondguarantee_ad.png)
+![diamondguarantee_ad](https://s30.postimg.cc/krwi2wwr5/diamondguarantee_ad.png)
 
 This plugin works very well for Minecraft 1.10, and some earlier versions are available for older versions of Minecraft. However, it will not be updated for future Minecraft versions because I've finally retired from Minecraft development (5 years of plugins!), and I'm moving on to develop indie games. :) You can follow me in my adventures here: 
 
